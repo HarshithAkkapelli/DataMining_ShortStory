@@ -14,5 +14,5 @@ Below is a curated list of resources, including the original paper, a Medium art
 | 🖥️ Slideshare Presentation   | [View Presentation on Slideshare](https://www.slideshare.net/harshithakkapelli/harshithakkapellipresentationpdf)         |
 | 🎥 YouTube Video             | [Watch on YouTube](https://www.youtube.com/watch?v=NJ3oWR6zSBM)                                                          |
 
----                               |
+---
 
